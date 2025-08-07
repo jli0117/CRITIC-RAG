@@ -46,4 +46,11 @@ Below is a visual overview of the CRITIC-RAG pipeline, highlighting its multi-st
 ![CRITIC-RAG Pipeline](critic-rag-pipeline.png)
 
 
+## 🔗 Code References
+
+This project builds on ideas and code from the following repositories:
+
+- [KALMV](https://github.com/JinheonBaek/KALMV)  
+- [Self-BioRAG)](https://github.com/dmis-lab/self-biorag)  
+
 
