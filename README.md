@@ -50,7 +50,7 @@ Below is a visual overview of the CRITIC-RAG pipeline, highlighting its multi-st
 
 This project builds on ideas and code from the following repositories:
 
-- [KALMV](https://github.com/JinheonBaek/KALMV)  
-- [Self-BioRAG)](https://github.com/dmis-lab/self-biorag)  
+- [KALMV](https://github.com/JinheonBaek/KALMV): Knowledge-Augmented Language Model Verification (EMNLP 2023)  
+- [Self-BioRAG](https://github.com/dmis-lab/self-biorag): Improving Medical Reasoning through Retrieval and Self-Reflection with Retrieval-Augmented Large Language Models (Bioinformatics, 2024)  
 
 
